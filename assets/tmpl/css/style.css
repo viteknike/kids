@@ -193,17 +193,8 @@ body {
 .kids_body_page .modal_description_kids .modal-content .img-description {
     background: url(../../../images/subtitle-img.png)50% 100% no-repeat;
     background-size: 90% 100%;
-    margin-top: -3rem;}
-.kids_body_page #KidsTimeExampleModal .modal-content .img-description, .kids_body_page #KidsCookingExampleModal .modal-content .img-description {
-    height: 11.5rem;}
-.kids_body_page #KidsTeachExampleModal .modal-content .img-description {
-    height: 10.5rem;}
-.kids_body_page #KidsExcursExampleModal .modal-content .img-description, .kids_body_page #KidsСlothesExampleModal .modal-content .img-description, .kids_body_page #KidsPoolExampleModal .modal-content .img-description {
-    height: 12.5rem;}
-.kids_body_page #KidsAnthemModal .modal-content .img-description {
-    height: 12rem;}
-.kids_body_page #KidsFoodExampleModal .modal-content .img-description {
-    height: 15.8rem;} 
+    margin-top: -3rem;
+    padding-bottom: 1rem;}
 .kids_body_page .modal_description_kids .modal-content .subtitle-modal {
     color: #000;
     padding-top: 3.5rem;
@@ -428,7 +419,8 @@ body {
     .kids_body_page .modal_description_kids .modal-content .img-description {
         background: url(../../../images/subtitle-img.png)48% 100% no-repeat;
         background-size: 90% 100%;
-        margin-top: -5rem;}
+        margin-top: -5rem;
+        margin-bottom: 1rem;}
     .kids_body_page .modal_description_kids .modal-content .subtitle-modal {
         color: #000;
         padding-top: 4rem;
@@ -526,14 +518,6 @@ body {
     .kids_body_page .modal_description_kids .modal-content .img-description {
         background-size: 90% 100%;
         margin-top: -3rem;}
-    .kids_body_page #KidsTimeExampleModal .modal-content .img-description, .kids_body_page #KidsAnthemModal .modal-content .img-description, .kids_body_page #KidsPoolExampleModal .modal-content .img-description, .kids_body_page #KidsCookingExampleModal .modal-content .img-description {
-        height: 11.1rem;}
-    .kids_body_page #KidsTeachExampleModal .modal-content .img-description {
-        height: 10.6rem;}
-    .kids_body_page #KidsСlothesExampleModal .modal-content .img-description, .kids_body_page #KidsExcursExampleModal .modal-content .img-description {
-        height: 12.1rem;}
-    .kids_body_page #KidsFoodModal .modal-content .img-description {
-        height: 15.6rem;} 
     .kids_body_page .modal_description_kids .modal-content .subtitle-modal {
         color: #000;
         padding-top: 3.5rem;
@@ -614,16 +598,6 @@ body {
         border: none;}
     .kids_body_page .modal_description_kids .modal-content .img-description {
         margin-top: -3rem;}
-    .kids_body_page #KidsTimeExampleModal .modal-content .img-description, .kids_body_page #KidsAnthemModal .modal-content .img-description, .kids_body_page #KidsCookingExampleModal .modal-content .img-description {
-        height: 11.7rem;}
-    .kids_body_page #KidsTeachExampleModal .modal-content .img-description {
-        height: 10.7rem;}
-    .kids_body_page #KidsPoolExampleModal .modal-content .img-description {
-        height: 12.7rem;    }
-    .kids_body_page #KidsСlothesExampleModal .modal-content .img-description, .kids_body_page #KidsExcursExampleModal .modal-content .img-description {
-        height: 12.6rem;}
-    .kids_body_page #KidsFoodExampleModal .modal-content .img-description {
-        height: 15.7rem;} 
     .kids_body_page .modal_description_kids .modal-content .subtitle-modal {
         padding-top: 3.5rem;
         padding-left: 3rem;
@@ -689,14 +663,6 @@ body {
         border: none;}
     .kids_body_page .modal_description_kids .modal-content .big-img-title {
         width: 90%;}
-    .kids_body_page #KidsTimeExampleModal .modal-content .img-description, .kids_body_page #KidsAnthemModal .modal-content .img-description, .kids_body_page #KidsPoolExampleModal .modal-content .img-description, .kids_body_page #KidsCookingExampleModal .modal-content .img-description {
-        height: 11.9rem;}
-    .kids_body_page #KidsTeachExampleModal .modal-content .img-description {
-        height: 10.8rem;}
-    .kids_body_page #KidsСlothesExampleModal .modal-content .img-description, .kids_body_page #KidsExcursExampleModal .modal-content .img-description {
-        height: 12.8rem;}
-    .kids_body_page #KidsFoodExampleModal .modal-content .img-description {
-        height: 15.9 rem;} 
     .kids_body_page .modal_description_kids .modal-content .subtitle-modal {
         padding-left: 4rem;
         padding-right: 4rem;}
@@ -749,12 +715,6 @@ body {
     .kids_body_page .included .subtitle.text-8 {
         bottom: 7rem;
         padding-left: 6rem;}
-    .kids_body_page #KidsTimeExampleModal .modal-content .img-description, .kids_body_page #KidsAnthemModal .modal-content .img-description, .kids_body_page #KidsPoolExampleModal .modal-content .img-description, .kids_body_page #KidsCookingExampleModal .modal-content .img-description {
-        height: 11.8rem;}
-    .kids_body_page #KidsTeachExampleModal .modal-content .img-description {
-        height: 10.7rem;}
-    .kids_body_page #KidsСlothesExampleModal .modal-content .img-description, .kids_body_page #KidsExcursExampleModal .modal-content .img-description {
-        height: 12.7rem;}
 }
 /* Medium */
 @media (min-width: 768px) and (max-width: 992px) {
@@ -795,14 +755,6 @@ body {
     .kids_body_page .included .subtitle.text-8 {
         bottom: 4.3rem;
         padding-left: 4.2rem;}
-    .kids_body_page #KidsTimeExampleModal .modal-content .img-description, .kids_body_page #KidsAnthemModal .modal-content .img-description, .kids_body_page #KidsPoolExampleModal .modal-content .img-description, .kids_body_page #KidsCookingExampleModal .modal-content .img-description {
-        height: 11.8rem;}
-    .kids_body_page #KidsTeachExampleModal .modal-content .img-description {
-        height: 10.7rem;}
-    .kids_body_page #KidsСlothesExampleModal .modal-content .img-description, .kids_body_page #KidsExcursExampleModal .modal-content .img-description {
-        height: 12.7rem;}
-    .kids_body_page #KidsFoodExampleModal .modal-content .img-description {
-        height: 15.8rem;} 
 }
 @media (min-width: 993px) and (max-width: 1040px) {
     .kids_body_page .short_description .description {
@@ -842,8 +794,6 @@ body {
         font-size: 2.3rem;
         font-weight: 600;
         line-height: 1;}
-    .kids_body_page #KidsFoodExampleModal .modal-content .img-description {
-        height: 15.8rem;} 
     .kids_body_page .included .subtitle.text-1 {
         bottom: 5.8rem;
         padding-left: 5.5rem;}
